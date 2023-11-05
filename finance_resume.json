@@ -1,0 +1,162 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "education": "Education",
+    "projects": "Leadership & Activities",
+    "work": "Professional Experience",
+    "skills": "Skills & Interests"
+  },
+  "basics": {
+    "name": "Taj Poulsen",
+    "email": "taj.poulsen@gmail.com",
+    "phone": "385-505-3979",
+    "website": "",
+    "location": {
+      "address": "84 S 300 E, Spanish Fork, UT 84660"
+    }
+  },
+  "education": [
+    {
+      "institution": "Utah Valley University",
+      "location": "Orem, UT",
+      "studyType": "BS",
+      "endDate": "Present",
+      "startDate": "2022",
+      "area": "Finance",
+      "gpa": "4.0"
+    },
+    {
+      "institution": "Brigham Young University",
+      "location": "Provo, UT",
+      "studyType": "BS",
+      "area": "Computer Science",
+      "gpa": "3.2",
+      "startDate": "2019",
+      "endDate": "Present"
+    },
+    {
+      "institution": "Salem Hills High School",
+      "location": "Salem, UT",
+      "studyType": "General Diploma",
+      "gpa": "3.97",
+      "startDate": "2012",
+      "endDate": "2016"
+    }
+  ],
+  "work": [
+    {
+      "location": "Provo, UT",
+      "position": "Day Trader",
+      "website": "",
+      "startDate": "Feb 2020",
+      "endDate": "Present",
+      "highlights": [
+        "Expert in technical and fundamental analysis, specializing in trend analysis, chart patterns, and volume analysis, achieving a 31% increase in personal portfolio value within the first month of active trading",
+        "Implemented effective risk management and cointegration techniques, maintaining overall portfolio losses below 5%",
+        "Demonstrated proficiency in financial statement analysis, including the interpretation of income statements, balance sheets, and cash flow statements, enabling well-informed personal and clientele investment decisions"
+      ],
+      "company": "Bloom Trading Inc."
+    },
+    {
+      "highlights": [
+        "Orchestrated and executed effective marketing and promotional strategies, resulting in increased brand visibility and engagement",
+        "Crafted compelling narratives and concepts around NFTs, increasing their intrinsic value and broadening their appeal, driving capital growth by +10%",
+        "Skillfully evaluated risk factors and managed exposure to cryptocurrency and NFT market volatility, minimizing potential losses for investors"
+      ],
+      "company": "The Angry Pitbulls Club",
+      "position": "Assistant Administrator",
+      "location": "L.A., CA",
+      "startDate": "Jan 2022",
+      "endDate": "Jul 2023"
+    },
+    {
+      "highlights": [
+        "Leveraged Microsoft Excel's financial management system to efficiently manage a portfolio of company clients, maintaining a personal lead-to-close rate consistently exceeding +70%",
+        "Advised and mentored new account executives by harnessing the power of data analytics and financial modeling, resulting in the formation of a highly efficient sales team that consistently ranked within the top 3 performers",
+        "Provided expert guidance to clients in making informed home security investment decisions, analyzing risk and profitability of tailored package plans through advanced money management techniques"
+      ],
+      "company": "Vivint Smart Home",
+      "position": "Account Executive",
+      "location": "Provo, UT",
+      "startDate": "Sep 2020",
+      "endDate": "Jan"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "Bloomberg",
+        "Yahoo Finance",
+        "Finviz",
+        "Microsoft Office Suite",
+        "Fluent in Vietnamese"
+      ],
+      "name": "Certifications & Skills"
+    },
+    {
+      "keywords": [
+        "Personal stock portfolio management",
+        "Running (5k competitor)",
+        "Art (Ceramics)",
+        null
+      ],
+      "name": "Interests"
+    },
+    {
+      "keywords": [
+        "Rich Dad Poor Dad",
+        "Rich Dad's Cashflow Quadrant",
+        "The 10X Rule",
+        "Can't Hurt Me"
+      ],
+      "name": "Favorite Books"
+    },
+    {
+      "keywords": [
+        "Completed 3 years of humanitarian aid service for the LDS church "
+      ],
+      "name": "Personal Feats"
+    }
+  ],
+  "projects": [
+    {
+      "url": "",
+      "keywords": [
+        null
+      ],
+      "name": "Quantitative Finance Society (Club)",
+      "description": "Expanded industry connections with hedge funds, bank engineering divisions, and fintech firms. Immersed in quantitative finance, exploring financial engineering, algorithmic trading, and market risk modeling. Applied financial theory models, and developed coding skills"
+    },
+    {
+      "keywords": [
+        ""
+      ],
+      "name": "Private Equity & Venture Capital Association",
+      "description": "Received mentorship preparation for placement in competitive positions including investment banking, corporate finance, asset management, sales and trading, private banking, etc"
+    },
+    {
+      "keywords": [
+        ""
+      ],
+      "name": "Private Banking & Wealth Management Association",
+      "description": "Developed an understanding of the what, why, and how of investing across the capital structure via case studies, guest speakers, investment case competitions, networking trips, and financial modeling boot camps"
+    }
+  ],
+  "awards": [
+    {
+      "date": "",
+      "awarder": ""
+    },
+    {}
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "projects",
+    "skills",
+    "awards"
+  ]
+}
