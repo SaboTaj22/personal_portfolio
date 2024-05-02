@@ -1,2 +1,2 @@
 # personal_portfolio
-My personal webpage created using HTML, CSS, and Javascript. I created this main webpage to serve as an intro of my personal skills, talents, and career goals to employers, family, and friends!
+- Welcome to my personal website, meticulously crafted from the ground up with HTML, CSS, and Javascript. This main webpage serves as a gateway to showcase my diverse skill set, talents, and ambitious career aspirations to prospective employers, family members, and valued friends!
